@@ -1,5 +1,5 @@
 --- !ruby/object:Match
-chosenWord: mincingly
+chosenWord: balboa
 bodyPartsSoFar:
 - " "
 - " "
@@ -12,4 +12,4 @@ result:
 wrongAnswers: 0
 wrongLetters: []
 rightAnswer: false
-guessedLetters: "---------"
+guessedLetters: "------"
